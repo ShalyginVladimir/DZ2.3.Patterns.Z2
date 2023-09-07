@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4brarym3omjba9vr/branch/main?svg=true)](https://ci.appveyor.com/project/ShalyginVladimir/dz2-3-patterns-z2/branch/main)
