@@ -15,7 +15,7 @@ import static ru.netology.testmode.data.DataGenerator.getRandomPassword;
 public class AuthTest {
 
     @BeforeEach
-    void setup() { open(" http://localhost:9999"); }
+    void setup() { open("http://localhost:9999"); }
 
     @Test
     @DisplayName("Should successfully login with active registered user")
